@@ -361,22 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-
-# JetBrains Rider / IntelliJ
-.idea/
-*.sln.iml
-
-# VS Code
-.vscode/
-*.code-workspace
-
-# macOS
-.DS_Store
-
-# Environment / secrets
-.env
-.env.*
-
-# Local appsettings overrides
-appsettings.Development.json
-appsettings.Local.json
